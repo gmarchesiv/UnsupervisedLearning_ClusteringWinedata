@@ -4,4 +4,4 @@ The data for this project corresponds to a chemical analysis of three types of w
 
 It was adapted for clustering by Harry Wang by taking out the data type and posted on [Kaggle](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)
 
-The goal for this project is to go through each of the steps in a clustering analysis by using different clustering algorithms. Using K-means and Aglomerative clustering, we will test the hypothesis that there are three varities of wine in the dataset.  
+The goal for this project is to est the hypothesis that there are three varities of wine in the dataset using K-means and agglomerative clustering. 
